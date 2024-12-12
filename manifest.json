@@ -1,0 +1,5 @@
+{
+  "nes_roms_dir": "roms/nes",
+  "zipped_nes_dir": "zipped/nes",
+  "nes_boxarts_dir": "boxarts/nes"
+}
