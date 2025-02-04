@@ -46,7 +46,22 @@
       "Advanced Dungeons & Dragons - Hillsfar (USA).nes": 2
     },
     {
+      "Adventure Island (USA).nes": 3
+    },
+    {
+      "Adventure Island II (USA).nes": 3
+    },
+    {
+      "Adventure Island III (USA).nes": 3
+    },
+    {
       "Adventures of Bayou Billy, The (Europe).nes": 3
+    },
+    {
+      "Adventures of Dino Riki (USA).nes": 3
+    },
+    {
+      "Adventures of Lolo (Europe).nes": 3
     },
     {
       "Adventures of Lolo 2 (Europe).nes": 3
@@ -65,6 +80,12 @@
     },
     {
       "Air Fortress (USA).nes": 2
+    },
+    {
+      "Airwolf (Europe).nes": 3
+    },
+    {
+      "Alpha Mission (Europe).nes": 3
     },
     {
       "Astyanax (Europe).nes": 3
@@ -241,7 +262,16 @@
       "Darkwing Duck (USA) (Beta).nes": 3
     },
     {
+      "Defender of the Crown (Europe).nes": 3
+    },
+    {
+      "Defender of the Crown (France).nes": 3
+    },
+    {
       "Deja Vu (Sweden).nes": 3
+    },
+    {
+      "Derby Stallion - Zenkoku Ban (Japan).nes": 1
     },
     {
       "Devil World (Europe).nes": 3
@@ -274,6 +304,9 @@
       "Doraemon (Japan).nes": 3
     },
     {
+      "Double Dragon (Europe).nes": 3
+    },
+    {
       "Double Dragon (Japan) (Beta).nes": 3
     },
     {
@@ -286,13 +319,49 @@
       "Double Dragon III - The Sacred Stones (Europe).nes": 3
     },
     {
+      "Double Dribble (Europe).nes": 3
+    },
+    {
+      "Double Dribble (USA).nes": 3
+    },
+    {
+      "Downtown Special - Kunio-kun no Jidaigeki Dayo Zenin Shuugou! (Japan).nes": 2
+    },
+    {
+      "Dr. Mario (Europe).nes": 3
+    },
+    {
+      "Dragon Ball - Le Secret du Dragon (France) (Rev A).nes": 3
+    },
+    {
+      "Dragon Ball - Le Secret du Dragon (France).nes": 3
+    },
+    {
       "Dragon Quest III - Soshite Densetsu e... (Japan) (Rev 0A).nes": 3
+    },
+    {
+      "Dragon Quest IV - Michibikareshi Monotachi (Japan) (Rev A).nes": 2
+    },
+    {
+      "Dragon Slayer 4 - Drasle Family (Japan).nes": 2
     },
     {
       "Dragon Warrior (USA).nes": 3
     },
     {
+      "Dragon Warrior - Part II (USA).nes": 3
+    },
+    {
+      "Dragon Warrior III (USA).nes": 2
+    },
+    {
+      "Dragon Warrior IV (USA).nes": 2
+    },
+    {
       "Dragon's Lair (Europe).nes": 3
+    },
+    {
+      "Dropzone (Europe).nes": 2
     },
     {
       "Duck Hunt (World).nes": 2
@@ -328,6 +397,12 @@
       "Eliminator Boat Duel (Europe).nes": 3
     },
     {
+      "Elite (Europe) (En,Fr,De).nes": 2
+    },
+    {
+      "Elite (NTSC Demo).nes": 2
+    },
+    {
       "Esper Bouken Tai (Japan).nes": 2
     },
     {
@@ -346,6 +421,9 @@
       "F-15 Strike Eagle (Sweden) (Sv,Da,Fi).nes": 3
     },
     {
+      "Famicom Top Management (Japan).nes": 1
+    },
+    {
       "Family BASIC (Japan) (v2.0a).nes": 2
     },
     {
@@ -359,6 +437,39 @@
     },
     {
       "Family Circuit (Japan).nes": 2
+    },
+    {
+      "Family School (Japan).nes": 2
+    },
+    {
+      "Family Tennis (Japan).nes": 2
+    },
+    {
+      "Family Trainer - Aerobics Studio (Japan).nes": 2
+    },
+    {
+      "Family Trainer - Daiundoukai (Japan).nes": 2
+    },
+    {
+      "Family Trainer - Jogging Race (Japan).nes": 2
+    },
+    {
+      "Family Trainer - Rairai Kyonsees (Japan) (Beta).nes": 2
+    },
+    {
+      "Family Trainer - Rairai Kyonsees (Japan).nes": 2
+    },
+    {
+      "Family Trainer - Running Stadium (Japan).nes": 2
+    },
+    {
+      "Family Trainer - Totsugeki! Fuuun Takeshi Jou (Japan).nes": 2
+    },
+    {
+      "Family Trainer 1 - Athletic World (Japan).nes": 2
+    },
+    {
+      "Family Trainer 9 - Fuuun! Takeshi Jou 2 (Japan).nes": 2
     },
     {
       "Faxanadu (Europe).nes": 3
@@ -409,10 +520,28 @@
       "Golf (Europe).nes": 3
     },
     {
+      "Goonies II, The (Europe).nes": 3
+    },
+    {
       "Goonies II, The - Fratelli Saigo no Chousen (Japan) (Beta).nes": 3
     },
     {
+      "Gozonji - Yaji Kita Chin Douchuu (Japan).nes": 1
+    },
+    {
+      "Gradius (ArchiMENdes Hen) (Japan).nes": 3
+    },
+    {
+      "Gradius (Europe).nes": 3
+    },
+    {
       "Gremlins 2 - The New Batch (Europe).nes": 3
+    },
+    {
+      "Guardian Legend, The (Europe).nes": 3
+    },
+    {
+      "Guardian Legend, The (USA).nes": 2
     },
     {
       "Guardic Gaiden (Japan).nes": 2
@@ -424,13 +553,64 @@
       "Gun.Smoke (Europe).nes": 3
     },
     {
+      "Gyromite (World).nes": 2
+    },
+    {
       "Hanafuda Yuukyou Den - Nagarebana Oryuu (Japan) (Unl).nes": 1
     },
     {
       "Herakles no Eikou - Toujin Makyou Den (Japan).nes": 2
     },
     {
+      "Home Alone (USA).nes": 3
+    },
+    {
+      "Hook (Europe).nes": 3
+    },
+    {
+      "Hot Slots (Asia) (Unl).nes": 1
+    },
+    {
+      "Hudson Hawk (Europe).nes": 3
+    },
+    {
+      "Hudson's Adventure Island - Classic in the Pacific (Europe).nes": 3
+    },
+    {
+      "Hudson's Adventure Island Part II (Europe).nes": 3
+    },
+    {
+      "Huge Insect (Asia) (Unl).nes": 1
+    },
+    {
+      "Hunt for Red October, The (Europe).nes": 3
+    },
+    {
       "Hunt for Red October, The (USA).nes": 3
+    },
+    {
+      "Ice Hockey (Europe).nes": 3
+    },
+    {
+      "Ide Yousuke Meijin no Jissen Mahjong (Japan) (Rev A).nes": 2
+    },
+    {
+      "Ide Yousuke Meijin no Jissen Mahjong 2 (Japan).nes": 2
+    },
+    {
+      "Ikari III - The Rescue (USA).nes": 3
+    },
+    {
+      "Ikari Warriors (Europe).nes": 3
+    },
+    {
+      "Ikari Warriors (USA).nes": 3
+    },
+    {
+      "Ikinari Musician (Japan) (Beta).nes": 3
+    },
+    {
+      "Incredible Crash Dummies, The (Europe).nes": 3
     },
     {
       "Indiana Jones and the Last Crusade (Europe).nes": 3
@@ -470,6 +650,12 @@
     },
     {
       "James Bond Jr (Europe).nes": 3
+    },
+    {
+      "Jesus - Kyoufu no Bio Monster (Japan).nes": 2
+    },
+    {
+      "Jikuu Yuuden - Debias (Japan).nes": 2
     },
     {
       "Joe & Mac - Caveman Ninja (Europe).nes": 3
@@ -1066,6 +1252,9 @@
       "TaleSpin (USA).nes": 3
     },
     {
+      "Tatakae!! Rahmen Man - Sakuretsu Choujin 102 Gei (Japan).nes": 2
+    },
+    {
       "Tatakai no Banka (Japan).nes": 2
     },
     {
@@ -1087,6 +1276,9 @@
       "Tecmo World Cup Soccer (Europe).nes": 3
     },
     {
+      "Tecmo World Wrestling (Europe).nes": 3
+    },
+    {
       "Teenage Mutant Hero Turtles (Europe).nes": 3
     },
     {
@@ -1097,6 +1289,9 @@
     },
     {
       "Teenage Mutant Ninja Turtles (Italy).nes": 3
+    },
+    {
+      "Tennis (Europe).nes": 3
     },
     {
       "Terminator 2 - Judgment Day (Europe).nes": 3
@@ -1120,6 +1315,12 @@
       "Tetris 2 (Europe).nes": 3
     },
     {
+      "Thomas the Tank Engine and Friends (USA) (Proto).nes": 1
+    },
+    {
+      "Three Stooges, The (USA) (Beta).nes": 3
+    },
+    {
       "Tiger-Heli (Europe).nes": 3
     },
     {
@@ -1130,6 +1331,12 @@
     },
     {
       "Tiny Toon Adventures 2 - Trouble in Wackyland (Europe).nes": 3
+    },
+    {
+      "To the Earth (Europe).nes": 2
+    },
+    {
+      "To the Earth (USA).nes": 2
     },
     {
       "Tom & Jerry (and Tuffy) (Europe).nes": 3
@@ -1148,6 +1355,12 @@
     },
     {
       "Top Rider (Japan).nes": 2
+    },
+    {
+      "Total Recall (Europe).nes": 3
+    },
+    {
+      "Totally Rad (Europe).nes": 3
     },
     {
       "Totsuzen! Macchoman (Japan) (Beta).nes": 3
