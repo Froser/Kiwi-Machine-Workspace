@@ -1,5 +1,6 @@
 {
   "nes_roms_dir": "roms/nes",
   "zipped_nes_dir": "zipped/nes",
-  "nes_boxarts_dir": "boxarts/nes"
+  "nes_boxarts_dir": "boxarts/nes",
+  "mesen_hd_textures_dir": "extras/mesen_hd_textures"
 }
