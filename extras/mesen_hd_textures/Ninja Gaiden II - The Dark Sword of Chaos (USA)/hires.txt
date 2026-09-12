@@ -22241,7 +22241,7 @@
 <tile>130,3947,0F0F0F18,88,48,0.4,N
 <tile>130,3953,0F0F0F18,8,56,0.4,N
 <tile>130,3955,0F0F0F18,24,56,0.4,N
-<tile>130,3964,0F0F0F18,96,56,0.4,NN
+<tile>130,3964,0F0F0F18,96,56,0.4,N
 
 #Stage 7-1 tiles 1: floor and walls (fade 3, $0F0F0F08)
 <tile>130,3840,0F0F0F08,0,0,0.2,N
@@ -41943,7 +41943,7 @@
 <tile>449,6769,0F0F0F04,8,56,0.4,N
 <tile>449,6852,0F0F0F04,32,96,0.4,N
 <tile>449,6853,0F0F0F04,40,96,0.4,N
-<tile>449,6904,0F0F0F04,64,120,0.4,NN
+<tile>449,6904,0F0F0F04,64,120,0.4,N
 
 #Tecmo Theater: Ryu holding Irene, tiles 3 (fade 3, $0F0F0F0F)
 [scene3]<tile>449,6727,0F0F0F0F,56,32,0.2,N
@@ -46397,7 +46397,7 @@
 
 #Tecmo Theater: Ryu shocked, background color $03 ($0330300F)
 <tile>0,7672,0330300F,24,0,1,N
-<tile>0,7679,0330300F,120,0,1,N)
+<tile>0,7679,0330300F,120,0,1,N
 
 ##CHR $1D000 (1D_03.png)
 #Tecmo Theater: Ryu shocked, tiles 1 ($030F1222)
@@ -47718,7 +47718,7 @@
 <tile>565,7928,030F1626,64,120,1,N
 <tile>565,7930,030F1626,80,120,1,N
 <tile>565,7932,030F1626,96,120,1,N
-<tile>565F,7934,030F1626,112,120,1,N
+<tile>565,7934,030F1626,112,120,1,N
 
 ##CHR $1E000 (1E_06.png)
 #Tecmo Theater: Irene close-up, tiles 2 ($020F2416)
