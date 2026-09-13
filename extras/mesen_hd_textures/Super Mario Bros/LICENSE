@@ -1,0 +1,30 @@
+Super Mario Bros HD Texture Pack for Kiwi-Machine
+Copyright (C) 2026 Yisi Yu
+SPDX-License-Identifier: GPL-3.0-or-later
+
+This HD texture pack is prepared and maintained specifically for
+Kiwi-Machine. It uses the Mesen HD Pack format for interoperability and is
+compatible with Mesen. Compatibility does not imply affiliation with or
+endorsement by the Mesen project.
+
+This package contains replacement texture artwork and HD Pack metadata only.
+It does not contain a game ROM or game program code. Game titles, characters,
+and trademarks remain the property of their respective owners. This license
+does not grant rights to any third-party trademarks.
+
+This texture pack is free material: you can redistribute it and/or modify it
+under the terms of the GNU General Public License as published by the Free
+Software Foundation, either version 3 of the License, or (at your option) any
+later version.
+
+This texture pack is distributed in the hope that it will be useful, but
+WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
+FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
+details.
+
+The complete GNU General Public License version 3 is available in the
+Kiwi-Machine repository:
+https://github.com/Froser/Kiwi-Machine/blob/main/LICENSE
+
+It is also available from the Free Software Foundation:
+https://www.gnu.org/licenses/gpl-3.0.html

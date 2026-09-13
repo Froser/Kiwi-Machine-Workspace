@@ -1,0 +1,18 @@
+{
+  "name": "Donkey Kong: Country-Inspired",
+  "scale": 4,
+  "rom_sha1": "D8DFACBFEC34CDC871D73C901811551FE1706923",
+  "direction": "Layered tropical jungle, root cavern, mossy temple, timber and rope",
+  "art": "Locally drawn backgrounds and newly sculpted 3D DK/Pauline character renders",
+  "original_mapping_sha256": "c440d50887a71c79209c6b709ea9023d9edece5d563a75debb5203b19d95b8c4",
+  "composite_cells_synced": 140,
+  "generator": "extras/texture_sources/donkey_kong_country/make_pack.py",
+  "unchanged": [
+    "ROM",
+    "hires.txt",
+    "tile coordinates",
+    "conditions",
+    "animation timing",
+    "unrelated sprite alpha silhouettes"
+  ]
+}

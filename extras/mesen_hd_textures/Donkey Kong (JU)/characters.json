@@ -1,0 +1,305 @@
+{
+  "revision": "classic-country-dk-v3",
+  "scale": 4,
+  "source": "characters.js / Three.js procedural models",
+  "poses": [
+    {
+      "atlas": "dk.png",
+      "pose": 0,
+      "cell": [
+        0,
+        0,
+        192,
+        128
+      ],
+      "source_only": false,
+      "old_bounds": [
+        30,
+        0,
+        162,
+        128
+      ],
+      "placement": [
+        38,
+        0,
+        117,
+        128
+      ],
+      "clipped_alpha_fraction": 0.0
+    },
+    {
+      "atlas": "dk.png",
+      "pose": 1,
+      "cell": [
+        192,
+        0,
+        384,
+        128
+      ],
+      "source_only": false,
+      "old_bounds": [
+        37,
+        38,
+        156,
+        128
+      ],
+      "placement": [
+        46,
+        38,
+        100,
+        90
+      ],
+      "clipped_alpha_fraction": 0.0
+    },
+    {
+      "atlas": "dk.png",
+      "pose": 2,
+      "cell": [
+        384,
+        0,
+        576,
+        128
+      ],
+      "source_only": false,
+      "old_bounds": [
+        40,
+        0,
+        146,
+        126
+      ],
+      "placement": [
+        40,
+        9,
+        106,
+        117
+      ],
+      "clipped_alpha_fraction": 0.0
+    },
+    {
+      "atlas": "dk.png",
+      "pose": 3,
+      "cell": [
+        0,
+        128,
+        192,
+        256
+      ],
+      "source_only": false,
+      "old_bounds": [
+        6,
+        2,
+        132,
+        128
+      ],
+      "placement": [
+        20,
+        2,
+        98,
+        126
+      ],
+      "clipped_alpha_fraction": 0.0
+    },
+    {
+      "atlas": "dk.png",
+      "pose": 4,
+      "cell": [
+        192,
+        128,
+        384,
+        256
+      ],
+      "source_only": false,
+      "old_bounds": [
+        78,
+        24,
+        190,
+        128
+      ],
+      "placement": [
+        90,
+        24,
+        89,
+        104
+      ],
+      "clipped_alpha_fraction": 0.0
+    },
+    {
+      "atlas": "dk.png",
+      "pose": 5,
+      "cell": [
+        384,
+        128,
+        576,
+        256
+      ],
+      "source_only": true,
+      "old_bounds": [
+        37,
+        26,
+        159,
+        128
+      ],
+      "placement": [
+        52,
+        26,
+        91,
+        102
+      ],
+      "clipped_alpha_fraction": 0.0
+    },
+    {
+      "atlas": "dk.png",
+      "pose": 6,
+      "cell": [
+        0,
+        256,
+        192,
+        384
+      ],
+      "source_only": false,
+      "old_bounds": [
+        36,
+        2,
+        158,
+        128
+      ],
+      "placement": [
+        40,
+        2,
+        114,
+        126
+      ],
+      "clipped_alpha_fraction": 0.0
+    },
+    {
+      "atlas": "dk.png",
+      "pose": 7,
+      "cell": [
+        192,
+        256,
+        384,
+        384
+      ],
+      "source_only": false,
+      "old_bounds": [
+        34,
+        4,
+        156,
+        128
+      ],
+      "placement": [
+        38,
+        4,
+        113,
+        124
+      ],
+      "clipped_alpha_fraction": 0.0
+    },
+    {
+      "atlas": "dk.png",
+      "pose": 8,
+      "cell": [
+        384,
+        256,
+        576,
+        384
+      ],
+      "source_only": true,
+      "old_bounds": [
+        42,
+        8,
+        160,
+        124
+      ],
+      "placement": [
+        48,
+        8,
+        105,
+        116
+      ],
+      "clipped_alpha_fraction": 0.0
+    },
+    {
+      "atlas": "Pauline.png",
+      "pose": 0,
+      "cell": [
+        0,
+        0,
+        64,
+        96
+      ],
+      "source_only": false,
+      "old_bounds": [
+        13,
+        0,
+        49,
+        96
+      ],
+      "placement": [
+        15,
+        0,
+        32,
+        96
+      ],
+      "clipped_alpha_fraction": 0.0
+    },
+    {
+      "atlas": "Pauline.png",
+      "pose": 1,
+      "cell": [
+        64,
+        0,
+        128,
+        96
+      ],
+      "source_only": false,
+      "old_bounds": [
+        13,
+        0,
+        64,
+        96
+      ],
+      "placement": [
+        17,
+        0,
+        43,
+        96
+      ],
+      "clipped_alpha_fraction": 0.0
+    }
+  ],
+  "atlases": {
+    "dk.png": {
+      "size": [
+        576,
+        384
+      ],
+      "rgba_sha256": "bf2df671ca63db2cd4bac7142ff5453fc873c80cdbf98e40cf2c70b3c94c423f",
+      "changed_from_old_art": true
+    },
+    "Pauline.png": {
+      "size": [
+        128,
+        96
+      ],
+      "rgba_sha256": "fbff10f4339550d1275b7fa841445c715c1640e5ff1ea21d5904f638151bcf69",
+      "changed_from_old_art": true
+    },
+    "rubble2a.png": {
+      "size": [
+        448,
+        224
+      ],
+      "rgba_sha256": "f556b1ca08bfc8f7ac0846657495c99cddab340a168a5b8d8ee980ea001ca3f7",
+      "changed_from_old_art": true
+    },
+    "rubble2b.png": {
+      "size": [
+        448,
+        224
+      ],
+      "rgba_sha256": "855f05fe4e1a810b3e0ffae4f05ffd607f00ab0b410922b7591aeb311709ae63",
+      "changed_from_old_art": true
+    }
+  }
+}

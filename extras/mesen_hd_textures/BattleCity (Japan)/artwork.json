@@ -1,0 +1,42 @@
+{
+  "rom_sha1": "E1061C9241B06A965FB7845CB951D921ACA010EF",
+  "scale": 4,
+  "rules": 1421,
+  "original_rules_preserved": 932,
+  "tank_palette_pairs": 1024,
+  "atlases": 12,
+  "capture_frames": 79643,
+  "captured_pairs": 727,
+  "captured_pairs_mapped": 727,
+  "method": "Original procedural pixel artwork; no extracted Tank Force sprites or generated photographs.",
+  "limits": "Art direction inspired by Tank Force, not a port or exact asset reproduction. Unseen palettes retain native fallback.",
+  "enemy_classes": [
+    "Basic: compact round turret, short exposed tracks",
+    "Fast: narrow tapered chassis, small turret, long tracks",
+    "Power: rear casemate, long gun and wide muzzle brake",
+    "Armor: broad square turret, thick side skirts, wide tracks"
+  ],
+  "stage_number_palettes": [
+    "0F170600",
+    "0F001000",
+    "0F290900",
+    "0F3C1000"
+  ],
+  "texture_audit": {
+    "scenarios": 43,
+    "rounds": "1-35, including every score-to-next-round transition",
+    "special_states": [
+      "pause",
+      "game over",
+      "two-player",
+      "construction",
+      "attract mode"
+    ],
+    "stage_family_combinations": 60,
+    "rendered_frame_samples": 1162,
+    "native_frames_compared": 1162,
+    "stage_screen_checks": 271,
+    "missing_observed_mappings": 0,
+    "method": "Every-frame tile/palette capture with sampled HD rendering. Disposable RAM counters accelerate score transitions; not a normal full playthrough."
+  }
+}
