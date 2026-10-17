@@ -2,5 +2,8 @@
   "nes_roms_dir": "roms/nes",
   "zipped_nes_dir": "zipped/nes",
   "nes_boxarts_dir": "boxarts/nes",
+  "gba_roms_dir": "roms/gba",
+  "zipped_gba_dir": "zipped/gba",
+  "gba_boxarts_dir": "boxarts/gba",
   "mesen_hd_textures_dir": "extras/mesen_hd_textures"
 }
